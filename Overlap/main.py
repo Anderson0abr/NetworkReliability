@@ -1,4 +1,4 @@
-#! /usr/bin/env python
+#!/usr/bin/env python
 from graph_tool.all import *
 
 def main():
